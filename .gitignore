@@ -29,7 +29,6 @@ packages/
 *.psess
 
 # Visual Studio Code
-.vscode/
 
 # Code signing
 *.pfx
@@ -43,3 +42,5 @@ Thumbs.db
 /res/[Vv]ersion.h
 /setup/*.ini
 /setup/Properties/AssemblyInfo.cs
+config.bat
+node_modules
